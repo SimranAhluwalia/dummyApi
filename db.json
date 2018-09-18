@@ -1,0 +1,25 @@
+{  
+			"clusters":[  
+			   {  
+				  "name":"RCDN Non-Prod",
+				  "server":"super-cl-rtp1-1:443",
+				  "namespace":"default",
+				  "user":"test",
+				  "token":"12423gvwrbnh43hqxcbarASG3"
+			   },
+			   {  
+				  "name":"RTP Non-Prod",
+				  "server":"micro-cl-rtp1-1:443",
+				  "namespace":"default",
+				  "user":"xfsf",
+				  "token":"1fsafwefg23432rtg"
+			   },
+			   {  
+				  "name":"ALLN Non-Prod",
+				  "server":"micro-cl-rtp1-1:443",
+				  "namespace":"default",
+				  "user":"xfsf",
+				  "token":"1fsafwefg23432rtg"
+			   }
+			]
+}
